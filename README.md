@@ -14,4 +14,4 @@ conda activate detectface
 pip install -r Requirements.txt
 ```
 
-open file "Detect_Face_By_OpenCV" ==> **Done**
+open file "Detect_Face_By_OpenCV.ipynb" ==> **Done**
