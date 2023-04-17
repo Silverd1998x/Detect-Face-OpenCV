@@ -2,6 +2,6 @@
 
 Run cmd
 
-"""
+```
 pip install -r Requirements.txt
-"""
+```
